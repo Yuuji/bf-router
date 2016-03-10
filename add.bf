@@ -55,11 +55,14 @@
         >++++++
         >+++++
         >+++++++++
-        [<]>[.>]                         Alles ausgeben
+
+                Output everything
+        [<]>[.>] 
         <[[-]<]
         ++++++++++.[-]
 
-        ++++<<++++<+<+                  return
+                and exit
+        ++++<<++++<+<+                  
 ]
 
 		Number ox 0x03 is 1
