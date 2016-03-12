@@ -240,5 +240,5 @@
 <[-]++
 <+
 
-        Output resule
+        Output result
 >>>>----[++++.>----]
